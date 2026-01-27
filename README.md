@@ -10,6 +10,6 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Tailwindcss" height="30" width="35" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg">
   <img align="center" alt="Node" height="30" width="35" src="https://nodejs.org/static/logos/jsIconGreen.svg">
-  <img align="center" alt="" height="30" width="35" src="https://expressjs.com/images/brand/logo-dark.svg">
+  <img align="center" alt="" height="30" width="35" src="https://img.icons8.com/?size=40&id=B4UIxQoMYIGD&format=png">
   <img align="center" alt="" height="35" width="35" src="https://images.seeklogo.com/logo-png/48/2/mongodb-logo-png_seeklogo-481256.png"
 </div>
