@@ -1,7 +1,9 @@
 # Olá! Eu sou o Pedro Costa! 👋
+Graduando Análise e Desenvolvimento de Sistemas na UFRN
+
 Desenvolvedor Full-Stack em formação
 
-Atualmente estudo Node.js (Backend)
+Foco principal em Backend com Node.js
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
