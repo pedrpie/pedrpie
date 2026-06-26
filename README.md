@@ -1,8 +1,5 @@
 # Olá! Eu sou o Pedro Costa! 👋
-Graduando Análise e Desenvolvimento de Sistemas na UFRN
-
-Desenvolvedor Full-Stack em formação
-
+Estudante do curso de Análise e Desenvolvimento de Sistemas na Universidade Federal do Rio Grande do Norte
 
 ## Entre em contato
 
