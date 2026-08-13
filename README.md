@@ -1,5 +1,5 @@
 # Olá! Eu sou o Pedro Costa! 👋
-Estudante do curso de Análise e Desenvolvimento de Sistemas na Universidade Federal do Rio Grande do Norte
+Graduando em Análise e Desenvolvimento de Sistemas pela Universidade Federal do Rio Grande do Norte (UFRN)
 
 ## Entre em contato
 
