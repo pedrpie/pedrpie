@@ -1,7 +1,7 @@
 ```text
 ██████╗ ███████╗██████╗ ██████╗  ██████╗      pedrolcosta360@gmail.com
 ██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔═══██╗     ─────────────────────────
-██████╔╝█████╗  ██║  ██║██████╔╝██║   ██║     Perfil:      Full Stack Developer
+██████╔╝█████╗  ██║  ██║██████╔╝██║   ██║     Perfil:       Full Stack Developer
 ██╔═══╝ ██╔══╝  ██║  ██║██╔══██╗██║   ██║     Formação:     Análise e Desenvolvimento de Sistemas - UFRN
 ██║     ███████╗██████╔╝██║  ██║╚██████╔╝     Linguagens:   Python · JavaScript · TypeScript
 ╚═╝     ╚══════╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝      Front-end:    React · HTML · CSS · Tailwind
