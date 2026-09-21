@@ -1,5 +1,33 @@
-# Olá! Eu sou o Pedro Costa! 👋
-Graduando em Análise e Desenvolvimento de Sistemas pela Universidade Federal do Rio Grande do Norte (UFRN)
+# Pedro Costa
+
+### Full Stack Developer
+
+Desenvolvedor Full Stack focado na construção de aplicações web modernas, escaláveis e bem estruturadas. Trabalho tanto no desenvolvimento de interfaces quanto na criação de APIs, integração com bancos de dados e implementação de regras de negócio.
+
+Minha stack envolve principalmente **React, JavaScript, Python, FastAPI, Node.js e PostgreSQL**, além de ferramentas e práticas do ecossistema de desenvolvimento moderno.
+
+Atualmente, também curso **Análise e Desenvolvimento de Sistemas na UFRN**, mantendo uma rotina constante de aprimoramento técnico e desenvolvimento de projetos.
+
+### Stack
+
+**Frontend:** React · JavaScript · HTML · CSS · Tailwind CSS
+
+**Backend:** Python · FastAPI · JWT · Bcrypt
+
+**Database:** PostgreSQL · SQL · SQLAlchemy
+
+**Tools:** Git · GitHub · REST APIs · Vercel · Cursor · VSCode
+
+**AI & Development:** Claude · Gemini · ChatGPT · Cursor · Prompt Engineering
+
+
+### Sobre meu trabalho
+
+Gosto de transformar requisitos e ideias em produtos digitais completos, priorizando **código organizado, boas práticas, arquitetura consistente e experiências de usuário eficientes**.
+
+Sempre explorando novas tecnologias e buscando evoluir como engenheiro de software.
+
+---
 
 ## Entre em contato
 
