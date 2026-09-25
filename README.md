@@ -3,13 +3,13 @@
 ██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔═══██╗     ─────────────────────────
 ██████╔╝█████╗  ██║  ██║██████╔╝██║   ██║     Perfil:       Full Stack Developer
 ██╔═══╝ ██╔══╝  ██║  ██║██╔══██╗██║   ██║     Formação:     Análise e Desenvolvimento de Sistemas - UFRN
-██║     ███████╗██████╔╝██║  ██║╚██████╔╝     Linguagens:   Python · JavaScript · TypeScript
-╚═╝     ╚══════╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝      Front-end:    React · HTML · CSS · Tailwind
-                                              Back-end:     FastAPI · JWT · Bcrypt
+██║     ███████╗██████╔╝██║  ██║╚██████╔╝     Linguagens:   Python · Java · JavaScript · TypeScript
+╚═╝     ╚══════╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝      Front-end:    React · Angular · HTML · CSS · Tailwind
+                                              Back-end:     FastAPI · JWT · Bcrypt · SQLAlchemy
  ██████╗ ██████╗ ███████╗████████╗ █████╗     Banco:        PostgreSQL · MySQL · SQLite · SQL
-██╔════╝██╔═══██╗██╔════╝╚══██╔══╝██╔══██╗    Ferramentas:  Git · GitHub · Vercel · pgAdmin4 · VSCode
+██╔════╝██╔═══██╗██╔════╝╚══██╔══╝██╔══██╗    Ferramentas:  VSCode · AntiGravity · IntelliJ · pgAdmin4 · Git & Githnub
 ██║     ██║   ██║███████╗   ██║   ███████║    IA:           Claude · Gemini · Cursor · Prompt Engineering 
 ██║     ██║   ██║╚════██║   ██║   ██╔══██║    Foco:         Desenvolvimento Web
-╚██████╗╚██████╔╝███████║   ██║   ██║  ██║    Status:       Desenvolvendo...
+╚██████╗╚██████╔╝███████║   ██║   ██║  ██║    Status:       Codando...
  ╚═════╝ ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝
 ```
